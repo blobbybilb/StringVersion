@@ -1,0 +1,21 @@
+{
+  "name": "stringversion",
+  "version": "0.1.0",
+  "description": "Simple version history system for a single javascript string",
+  "main": "StringVersion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "versioning",
+    "version",
+    "control",
+    "history"
+  ],
+  "author": "blobbybilb",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "msldiff": "^1.0.0"
+  }
+}
